@@ -12,6 +12,6 @@ then,
 
 ./gwgd [-p some_port_number]
 
-Then connect to port the libevent server is running on
-
-if option "-p" was not included when running ./gwgd, then connect to port 8000
+Finally,
+connect to port the libevent server is running on;
+if option "-p" was not included when running ./gwgd, then connect to port 8000.
